@@ -64,3 +64,8 @@ Through these symbols, we build a series of play styles and rules.
 ### 头道牌逻辑 First Round Card Logic
 
 ![avatar](./assets/images/first-round-rule.png)
+
+### APP交互 APP Interaction
+
+### 同点策略 APP Interaction
+
