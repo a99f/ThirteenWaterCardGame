@@ -6,3 +6,16 @@ The business logic of a game program explains the calculation process of thirtee
 
 Thirteen Waters" is a card game that started to flourish in the late 1970s in Fujian and Zhejiang, and later spread throughout the country through Fujian and Zhejiang, and its development history is based on the improved variation of the former Soviet Union's "Thirteen Waters". In East China and South China, it is commonly known as "Thirteen Waters", while in some areas of Zhejiang, it is still known as "Lorsong", in some parts of Jiangsu, it is called "Spelling Lorsong", and in Hong Kong, Macao and overseas, it is called "Thirteen Tables". The rules, card types and card sizes of "Thirteen Waters", "Rosong", "Spelling Rosong", and "Thirteen Tables" are exactly the same. The difference is that there are different game names for this game in the geographical division and there is no uniform standard of play for the special cards of the game. There are different variations of special tiles and bets between regions.
 
+# 符号系统
+
+牌类的编码是根据排面的意义进行编码，一副牌共有52张，每种花色所代表含义都所不同，我们依次将这些牌按1-52的顺序进行了编排。
+
+The cards are coded according to the meaning of the row, there are 52 cards in a deck, each suit represents a different meaning, we have arranged these cards in the order of 1-52.
+
+![avatar](./assets/images/word-name-01.png)
+
+![avatar](./assets/images/word-name-02.png)
+
+![avatar](./assets/images/word-name-03.png)
+
+![avatar](./assets/images/word-name-04.png)
