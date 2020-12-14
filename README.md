@@ -67,5 +67,9 @@ Through these symbols, we build a series of play styles and rules.
 
 ### APP交互 APP Interaction
 
+![avatar](./assets/images/app-post.png)
+
 ### 同点策略 APP Interaction
+
+![avatar](./assets/images/same-point-rule.png)
 
