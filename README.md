@@ -1,4 +1,4 @@
-# CardGameController 卡牌游戏十三水
+# CardGame 卡牌游戏十三水
 
 ## 项目概述 Project Overview
 
