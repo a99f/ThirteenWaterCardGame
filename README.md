@@ -10,9 +10,9 @@ Thirteen Waters" is a card game that started to flourish in the late 1970s in Fu
 
 ## 符号系统 Symbol System
 
-牌类的编码是根据排面的意义进行编码，一副牌共有52张，每种花色所代表含义都所不同，我们依次将这些牌按1-52的顺序进行了编排。
+牌类的编码是根据牌面的意义进行编码，一副牌共有52张，每种花色所代表含义都所不同，我们依次将这些牌按1-52的顺序进行了编排。
 
-The cards are coded according to the meaning of the row, there are 52 cards in a deck, each suit represents a different meaning, we have arranged these cards in the order of 1-52.
+The cards are coded according to the meaning of the cards. There are 52 cards in a deck, each suit represents a different meaning, and we have arranged the cards in the order of 1-52.
 
 ![avatar](./assets/images/word-name-01.png)
 
