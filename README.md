@@ -23,9 +23,10 @@ The cards are coded according to the meaning of the row, there are 52 cards in a
 ![avatar](./assets/images/word-name-04.png)
 
 通过这些符号，我们构建了一系列玩法和规则。
+
 Through these symbols, we build a series of play styles and rules.
 
-### 牌型 Card Type
+## 牌型 Card Type
      | =============================================================================================================
      | 名称    英文                         中文                      数值
      | =============================================================================================================
