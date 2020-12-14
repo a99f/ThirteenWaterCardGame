@@ -25,6 +25,22 @@ The cards are coded according to the meaning of the row, there are 52 cards in a
 通过这些符号，我们构建了一系列玩法和规则。
 Through these symbols, we build a series of play styles and rules.
 
+### 牌型 Card Type
+     | =============================================================================================================
+     | 名称    英文                         中文                      数值
+     | =============================================================================================================
+     | 五同    fiveSameCardValue            wutong
+     | 同花顺  straightFlush                tonghuashun
+     | 铁支    fourSameWithOneDiff          tiezhi
+     | 葫芦    threeSameWithPair            hulu
+     | 同花    fiveSameSuit                 tonghua
+     | 顺子    straight                     shunzi
+     | 三条    threeSameWithTwoDiff         santiao
+     | 两对    twoPairWithOneDiff           liangdui
+     | 对子    onePairWithThreeDiff         duizi
+     | 乌龙    fiveDiff                     wulong
+     | =============================================================================================================
+
 ## 规则 Rules
 
 ![avatar](./assets/images/logic1.jpg)
